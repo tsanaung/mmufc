@@ -1,0 +1,8 @@
+@font-face {
+  font-family: MMSagar;
+  src: url(https://github.com/tsanaung/mmufc/blob/master/ttf/MyanmarSagar.ttf);
+}
+
+div { /**Example**/
+  font-family: MMSagar;
+}
